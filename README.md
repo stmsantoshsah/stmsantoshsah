@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stmsantoshsah&label=Profile%20views&color=0e75b6&style=flat" alt="stmsantoshsah" /> </p>
 
-- 🌱 I’m currently learning **Mearn Stack**
+- 🌱 I’m currently learning **Mern Stack**
 
 - ⚡ Fun fact **I am funny**
 
