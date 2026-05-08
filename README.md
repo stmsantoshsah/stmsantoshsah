@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/stmsantoshsah/stmsantoshsah/main/github-header-image.png" width="100%" alt="Santosh Sah Header" />
   
   <h1>🚀 Santosh Sah</h1>
-  <h3>Senior Full-Stack & AI Engineer | Technical Lead</h3>
+  <h3>Senior Software Engineer | AI Specialist | Technical Lead</h3>
   
   <p>
     <a href="https://linkedin.com/in/santoshsah1"><img src="https://img.shields.io/badge/LinkedIn-Santosh_Sah-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
@@ -14,7 +14,7 @@
 ---
 
 ### 🧑‍💻 Executive Summary
-A results-driven **Senior Full-Stack & AI Engineer** with over **4 years of experience** architecting scalable enterprise SaaS platforms and high-performance AI intelligence pipelines. I specialize in bridging the gap between complex backend architectures (**NestJS/FastAPI**) and pixel-perfect, interactive frontends (**Next.js/Three.js**).
+A results-driven **Senior Software Engineer** with **5 years of experience** architecting scalable enterprise SaaS platforms and high-performance AI intelligence pipelines. Currently contributing as a **Senior Software Engineer** at **Go Brilliant Technologies**, I specialize in bridging the gap between complex backend architectures (**NestJS/FastAPI**) and pixel-perfect, interactive frontends (**Next.js/Three.js**).
 
 *   🛠️ **Technical Lead**: Architected global design systems and enterprise-grade third-party integrations (QuickBooks).
 *   🤖 **AI Specialist**: Engineered multi-pass AI agentic pipelines using **AWS Bedrock** and **Claude 3.5**.
@@ -89,6 +89,7 @@ A results-driven **Senior Full-Stack & AI Engineer** with over **4 years of expe
 ---
 
 ### 📫 Connect with Me
+- **Current Role**: Senior Software Engineer @ [Go Brilliant Technologies](https://gobrilltech.com/)
 - **LinkedIn**: [linkedin.com/in/santoshsah1](https://linkedin.com/in/santoshsah1)
 - **Email**: [santosh1500165@gmail.com](mailto:santosh1500165@gmail.com)
 - **Availability**: Open to Senior/Lead roles in AI Architecture and Full-Stack Engineering.
