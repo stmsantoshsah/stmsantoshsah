@@ -89,7 +89,7 @@ A results-driven **Senior Software Engineer** with **5 years of experience** arc
 ---
 
 ### 📫 Connect with Me
-- **Current Role**: Senior Software Engineer @ [Go Brilliant Technologies](https://gobrilltech.com/)
+- **Current Role**: Senior Software Engineer @ [Go Brilliant Technologies](https://gobrillianttech.com/)
 - **LinkedIn**: [linkedin.com/in/santoshsah1](https://linkedin.com/in/santoshsah1)
 - **Email**: [santosh1500165@gmail.com](mailto:santosh1500165@gmail.com)
 - **Availability**: Open to Senior/Lead roles in AI Architecture and Full-Stack Engineering.
