@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://github.com/stmsantoshsah/stmsantoshsah/blob/main/github-header-image.png" width="100%" alt="Santosh Sah Header" />
+  <img src="https://raw.githubusercontent.com/stmsantoshsah/stmsantoshsah/main/github-header-image.png" width="100%" alt="Santosh Sah Header" />
   
   <h1>🚀 Santosh Sah</h1>
   <h3>Senior Full-Stack & AI Engineer | Technical Lead</h3>
   
   <p>
-    <a href="https://linkedin.com/in/santoshsah1"><img src="https://img.shields.io/badge/LinkedIn-Santosh_Sah-blue?logo=linkedin&style=flat-square" alt="LinkedIn" /></a>
-    <a href="https://santosh-portfolio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-green?logo=react&style=flat-square" alt="Portfolio" /></a>
-    <a href="mailto:santosh1500165@gmail.com"><img src="https://img.shields.io/badge/Email-santosh1500165@gmail.com-red?logo=gmail&style=flat-square" alt="Email" /></a>
+    <a href="https://linkedin.com/in/santoshsah1"><img src="https://img.shields.io/badge/LinkedIn-Santosh_Sah-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" /></a>
+    <a href="https://santosh-portfolio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-green?logo=react&style=for-the-badge" alt="Portfolio" /></a>
+    <a href="mailto:santosh1500165@gmail.com"><img src="https://img.shields.io/badge/Email-santosh1500165@gmail.com-red?logo=gmail&style=for-the-badge" alt="Email" /></a>
   </p>
 </div>
 
@@ -32,25 +32,43 @@ A results-driven **Senior Full-Stack & AI Engineer** with over **4 years of expe
 
 ### 🛠️ Technical Arsenal
 
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center" width="150"><strong>Frontend</strong></td>
-    <td align="center" width="150"><strong>Backend</strong></td>
-    <td align="center" width="150"><strong>AI/ML</strong></td>
-    <td align="center" width="150"><strong>Cloud/DevOps</strong></td>
+    <th align="center">🎨 Frontend</th>
+    <th align="center">⚙️ Backend</th>
+    <th align="center">🧠 AI/ML</th>
+    <th align="center">☁️ Cloud/DevOps</th>
   </tr>
   <tr>
-    <td align="top">
-      Next.js 14/15<br/>TypeScript<br/>Tailwind CSS<br/>Ant Design<br/>Three.js (R3F)<br/>Framer Motion
+    <td align="center" valign="top">
+      Next.js 14/15 (App Router)<br/>
+      TypeScript<br/>
+      Tailwind CSS<br/>
+      Ant Design<br/>
+      Three.js (R3F)<br/>
+      Framer Motion
     </td>
-    <td align="top">
-      NestJS<br/>Node.js / Express<br/>Python (FastAPI)<br/>PostgreSQL<br/>TypeORM / Prisma<br/>Redis
+    <td align="center" valign="top">
+      NestJS<br/>
+      Node.js / Express<br/>
+      Python (FastAPI)<br/>
+      PostgreSQL<br/>
+      TypeORM / Prisma<br/>
+      Redis
     </td>
-    <td align="top">
-      AWS Bedrock<br/>Claude 3.5 / Haiku<br/>Google Gemini 2<br/>LangChain<br/>Agentic Workflows<br/>Groq API
+    <td align="center" valign="top">
+      AWS Bedrock (Claude 3.5)<br/>
+      Google Gemini 2<br/>
+      LangChain<br/>
+      Agentic Workflows<br/>
+      Groq API
     </td>
-    <td align="top">
-      AWS (S3, Cognito)<br/>Docker<br/>Turborepo<br/>GitHub Actions<br/>Asynchronous Queues<br/>REST / OpenAPI
+    <td align="center" valign="top">
+      AWS (S3, Cognito)<br/>
+      Docker<br/>
+      Turborepo<br/>
+      GitHub Actions<br/>
+      Async Queues
     </td>
   </tr>
 </table>
@@ -60,12 +78,12 @@ A results-driven **Senior Full-Stack & AI Engineer** with over **4 years of expe
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stmsantoshsah&show_icons=true&theme=tokyonight&count_private=true" alt="Santosh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stmsantoshsah&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stmsantoshsah&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stmsantoshsah&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stmsantoshsah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=stmsantoshsah&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -76,5 +94,5 @@ A results-driven **Senior Full-Stack & AI Engineer** with over **4 years of expe
 - **Availability**: Open to Senior/Lead roles in AI Architecture and Full-Stack Engineering.
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56bm56bm56bm56bm56bm56bm56bm56bm56bm56bm56JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSk2Q9XpdwXpEwM4/giphy.gif" width="300" alt="Coding GIF" />
 </div>
