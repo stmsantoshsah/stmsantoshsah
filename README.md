@@ -1,19 +1,80 @@
-![logo](https://github.com/stmsantoshsah/stmsantoshsah/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Santosh Sah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400px" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<div align="center">
+  <img src="https://github.com/stmsantoshsah/stmsantoshsah/blob/main/github-header-image.png" width="100%" alt="Santosh Sah Header" />
+  
+  <h1>🚀 Santosh Sah</h1>
+  <h3>Senior Full-Stack & AI Engineer | Technical Lead</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/santoshsah1"><img src="https://img.shields.io/badge/LinkedIn-Santosh_Sah-blue?logo=linkedin&style=flat-square" alt="LinkedIn" /></a>
+    <a href="https://santosh-portfolio-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-green?logo=react&style=flat-square" alt="Portfolio" /></a>
+    <a href="mailto:santosh1500165@gmail.com"><img src="https://img.shields.io/badge/Email-santosh1500165@gmail.com-red?logo=gmail&style=flat-square" alt="Email" /></a>
+  </p>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stmsantoshsah&label=Profile%20views&color=0e75b6&style=flat" alt="stmsantoshsah" /> </p>
+---
 
-- 🌱 I’m currently learning **AI/ML**
+### 🧑‍💻 Executive Summary
+A results-driven **Senior Full-Stack & AI Engineer** with over **4 years of experience** architecting scalable enterprise SaaS platforms and high-performance AI intelligence pipelines. I specialize in bridging the gap between complex backend architectures (**NestJS/FastAPI**) and pixel-perfect, interactive frontends (**Next.js/Three.js**).
 
-- ⚡ Fun fact **I am funny**
+*   🛠️ **Technical Lead**: Architected global design systems and enterprise-grade third-party integrations (QuickBooks).
+*   🤖 **AI Specialist**: Engineered multi-pass AI agentic pipelines using **AWS Bedrock** and **Claude 3.5**.
+*   ⚡ **Safety Net Leader**: Known for high-pressure delivery and building strategic POCs that drive immediate business value.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/santosh-sah-071715229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santosh-sah-071715229/" height="30" width="40" /></a>
+---
+
+### 🚀 Flagship Expertise
+
+*   **[Capture-411](https://github.com/stmsantoshsah/evosan)**: AI-Powered GovCon Intelligence Platform. Reduced document analysis from **2 hours to 3 minutes** (92% accuracy) using Multi-Agent AI.
+*   **Power Dental Studio**: B2B Dental SaaS. Automated 20 hours/week of billing via **QuickBooks API** and implemented **3D STL visualization** in-browser.
+*   **Evosan**: AI-Assisted Personal Growth Dashboard utilizing ultra-fast **Groq inference** and React 19.
+
+---
+
+### 🛠️ Technical Arsenal
+
+<table align="center">
+  <tr>
+    <td align="center" width="150"><strong>Frontend</strong></td>
+    <td align="center" width="150"><strong>Backend</strong></td>
+    <td align="center" width="150"><strong>AI/ML</strong></td>
+    <td align="center" width="150"><strong>Cloud/DevOps</strong></td>
+  </tr>
+  <tr>
+    <td align="top">
+      Next.js 14/15<br/>TypeScript<br/>Tailwind CSS<br/>Ant Design<br/>Three.js (R3F)<br/>Framer Motion
+    </td>
+    <td align="top">
+      NestJS<br/>Node.js / Express<br/>Python (FastAPI)<br/>PostgreSQL<br/>TypeORM / Prisma<br/>Redis
+    </td>
+    <td align="top">
+      AWS Bedrock<br/>Claude 3.5 / Haiku<br/>Google Gemini 2<br/>LangChain<br/>Agentic Workflows<br/>Groq API
+    </td>
+    <td align="top">
+      AWS (S3, Cognito)<br/>Docker<br/>Turborepo<br/>GitHub Actions<br/>Asynchronous Queues<br/>REST / OpenAPI
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stmsantoshsah&show_icons=true&theme=tokyonight&count_private=true" alt="Santosh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stmsantoshsah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=stmsantoshsah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
+---
+
+### 📫 Connect with Me
+- **LinkedIn**: [linkedin.com/in/santoshsah1](https://linkedin.com/in/santoshsah1)
+- **Email**: [santosh1500165@gmail.com](mailto:santosh1500165@gmail.com)
+- **Availability**: Open to Senior/Lead roles in AI Architecture and Full-Stack Engineering.
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="300" />
+</div>
